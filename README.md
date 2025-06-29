@@ -1,4 +1,4 @@
-# 📊 Student Performance Analysis (Mini Project)
+# 📊 Student Performance Analysis (Mini Project 2 )
 
 This is a real-world mini-project built using **Pandas** in Python. It demonstrates how to clean messy data and generate analytical insights from student records.
 
