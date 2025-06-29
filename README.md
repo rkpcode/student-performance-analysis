@@ -1,39 +1,24 @@
-# 📊 Student Performance Analysis (Mini Project 2 )
+# 📊 Student Performance Analysis (Mini Project 2)
 
-This is a real-world mini-project built using **Pandas** in Python. It demonstrates how to clean messy data and generate analytical insights from student records.
+This project uses **Pandas** to clean and analyze student academic data.
 
----
+## ✅ Features:
+- Data Cleaning (invalid/missing Marks and Attendance)
+- Filling values using `mean` and `median`
+- Aggregated insights using `groupby() + lambda`
+- Exporting cleaned dataset to CSV
 
-## 🔧 Features:
+## 📂 Files:
+- `student_analysis_project.ipynb` — Full notebook
+- `cleaned_student_data.csv` — Cleaned dataset
 
-- ✅ Clean invalid marks and attendance values
-- ✅ Fill missing data using mean & median
-- ✅ Group-wise analysis by Subject & Gender
-- ✅ Calculate passing %, excellent score count, and attendance stats
-- ✅ Export cleaned data to CSV
-
----
-
-## 🗂️ Files:
-
-| File | Description |
-|------|-------------|
-| 'student_analysis_project.ipynb' | Jupyter Notebook with full analysis |
-| 'cleaned_student_data.csv' | Cleaned and processed dataset |
+## 🧠 Skills Used:
+- Python (Pandas, NumPy)
+- Data Cleaning
+- Aggregation & Grouping
+- Real-world Data Analysis
 
 ---
 
-## 🧠 Skills Demonstrated:
-
-- `pandas`, `numpy`, `groupby()`, `lambda`  
-- Data Cleaning & Preprocessing  
-- Data Aggregation & Export  
-
----
-
-## ✅ Status:  
-Completed & Verified ✅
-
----
-
-👨‍💻 **Created by:** Rahul (@rkpcode)
+👨‍💻 Created by: **Rahul**
+🔗 GitHub: [@rkpcode](https://github.com/rkpcode)
